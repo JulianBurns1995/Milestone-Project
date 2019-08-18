@@ -1,0 +1,171 @@
+
+
+body {
+  border: 1px solid #b7b7b7;
+  background-color: #ff654a;
+}
+
+#container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+body p {
+  font-family: "Open Sans";
+  font-size: 24px;
+}
+
+/*header styles*/
+
+#header {
+  height: 800px;
+  background-color: #ffffff;
+}
+
+#header h1 {
+  font-size: 64pt;
+  font-family: "Libre-Baskerville";
+  clear: right;
+}
+
+#name {
+  color: #ff654a;
+}
+
+#header h2 {
+  font-size: 48pt;
+  font-family: "Open-Sans";
+  font-weight: normal;
+}
+
+nav {
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  font-family: "Open-Sans";
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 25px 0px 25px 25px;
+  margin-bottom: 125px;
+  font-size: 24pt;
+}
+
+/*about styles*/
+
+#about {
+  height: 1050px;
+  background-color: #ff654a;
+  color: white;
+}
+
+#about p {
+  font-size: 24pt;
+  text-align: center;
+}
+
+.headers {
+  color: #ffffff;
+  font-family: "Libre-Baskerville";
+  font-weight: bold;
+  font-size: 36pt;
+  text-align: center;
+  padding-top: 130px;
+}
+
+img {
+  width: 241px;
+  height: 322px;
+  align: center;
+  margin: auto;
+  display: block;
+}
+
+h4 {
+  font-family: "Open-Sans-Bold";
+  font-size: 24pt;
+  text-align: center;
+}
+
+/*portfolio styles*/
+
+#portfolio {
+  height: 850px;
+  background-color: #ffffff;
+}
+
+#myportfolio {
+  text-align: center;
+  font-family: "Libre-Baskerville";
+  font-weight: bold;
+  font-size: 36pt;
+  padding-top: 120px;
+}
+
+#portfolio p {
+  text-align: center;
+}
+
+/*contact styles*/
+
+#contact {
+  height: 650px;
+  background-color: #ff654a;
+}
+
+#contact h4 {
+  color: #ffffff;
+  font-family: "Open-Sans-Regular";
+  font-size: 24pt;
+}
+
+#contact p {
+  color: #ffffff;
+  font-size: 24pt;
+  font-family: "Open-Sans-Regular";
+  text-align: center;
+}
+
+.connecttext {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Open-Sans";
+  font-size: 24pt;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+}
+
+#contact ul li {
+  display: inline-block;
+  padding: 0px 25px;
+
+}
+
+footer {
+  background-color: #ff654a;
+  font-size: 18pt;
+  font-family: "Open-Sans-Regular";
+  text-align: center;
+  color: white;
+  clear: left;
+  padding-top: 200px;
+}
+
+/*div widths*/
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+.half-width {
+  width: 600px;
+  float: left;
+}
+.third-width {
+  width: 400px;
+  float: left;
+}
